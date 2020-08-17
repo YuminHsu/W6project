@@ -1,0 +1,17 @@
+@import "reset.css" ;
+@import "bs_scss/bootstrap.scss" ;
+
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.themed{    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(86, 61, 124, 0.15);
+    border: 1px solid rgba(86, 61, 124, 0.2);
+}
